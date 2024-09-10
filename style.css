@@ -191,5 +191,18 @@ nav{
 
 #footer-title{
     color: white;
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
 }
 
+.ft{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.ft-5 p{
+    display: flex;
+    justify-content: center;
+}
